@@ -1,0 +1,19 @@
+{
+  "name": "datetimepicker",
+  "type":"library",
+  "repo": "devlucid/datetimepicker",
+  "description": "",
+  "authors": [
+      {
+          "name":     "Mike Thorn",
+          "email":    "mthorn@devlucid.com"
+      }
+  ],
+  "maintainers": [
+      {
+          "name":     "Mike Thorn",
+          "email":    "mthorn@devlucid.com"
+      }
+  ],
+  "license": "MIT"
+}
